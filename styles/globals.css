@@ -1,0 +1,35 @@
+@font-face {
+  font-family: jacquespro;
+  src: url(../public/fonts/JacquesPro-Bold.woff);
+  font-weight: 800;
+}
+@font-face {
+  font-family: jacquespro;
+  src: url(../public/fonts/JacquesPro-ExtraBold.woff);
+  font-weight: 900;
+}
+@font-face {
+  font-family: jacquespro;
+  src: url(../public/fonts/JacquesPro-ExtraLight.woff);
+  font-weight: 200;
+}
+@font-face {
+  font-family: jacquespro;
+  src: url(../public/fonts/JacquesPro-Light.woff);
+  font-weight: 300;
+}
+@font-face {
+  font-family: jacquespro;
+  src: url(../public/fonts/JacquesPro-Medium.woff);
+  font-weight: 500;
+}
+@font-face {
+  font-family: jacquespro;
+  src: url(../public/fonts/JacquesPro-Regular.woff);
+  font-weight: 400;
+}
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+}
