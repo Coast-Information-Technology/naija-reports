@@ -6,7 +6,7 @@ export const PrimaryImageButton = styled.button`
     background-color: hsl(136, 53%, 43%);
     /* padding: 0.5rem 1rem; */
     color: hsl(150, 97%, 97%);
-    font-size: clamp(1.35rem, calc(1.28rem + 0.37vw), 1.56rem);
+    font-size: clamp(0.94rem, calc(0.92rem + 0.11vw), 1.00rem);
     font-family: jacquespro;
     font-weight: 500;
 
